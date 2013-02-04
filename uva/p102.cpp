@@ -27,7 +27,7 @@ string toAssortment(int i) {
     return "G";
 }
 
-void p102() {
+int main() {
     // (bin id) (b, c, g)
     int bins[3][3];
 
@@ -61,4 +61,6 @@ void p102() {
 
         cout << answers[0].assortment << " " << answers[0].total << endl;
     }
+    
+    return 0;
 }

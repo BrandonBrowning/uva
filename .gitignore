@@ -17,3 +17,10 @@
 *.*sdf
 *.vcxproj.filters
 Debug/
+
+# Executables
+*.exe
+*.out
+
+# Fucking gedit
+*.cpp~
