@@ -1,8 +1,7 @@
 
-#include "p110.h"
-
 int main() {
-    p110();
+    void p102();
+    p102();
 
     return 0;
 }

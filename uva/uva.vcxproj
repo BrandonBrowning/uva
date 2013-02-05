@@ -13,11 +13,11 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="p100.cpp" />
+    <ClCompile Include="p102.cpp" />
     <ClCompile Include="p110.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="p100.h" />
-    <ClInclude Include="p110.h" />
+    <Text Include="p102.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C4B1C581-791F-483A-BB0E-A5350CCA00EC}</ProjectGuid>
